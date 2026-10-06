@@ -1,0 +1,6 @@
+{
+  "name": "Project In The Making",
+  "description": "Premium academic project, coding, hardware, and documentation studio for university students. From idea to final submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
